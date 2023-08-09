@@ -1,0 +1,66 @@
+.con-6{
+display: flex;
+flex-direction: column;
+
+
+}
+.flexss{
+    /* object-fit:cover; */
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.imgsss{
+    display: flex;
+    flex-direction: row;
+}
+.imgssss{
+    display: flex;
+    flex-direction: row;
+}
+.img6-1{
+    width: 100%;
+
+}
+.img6_1{
+    width: 100%;
+    height: 100%;
+    object-fit:cover ;
+
+}
+.img6-2{
+    width: 100%;
+    display: flex;
+flex-direction: row;
+gap: 50px;
+}
+.img6-3{
+    width: 100%;
+    display: flex;
+flex-direction: row;
+gap: 50px;
+}
+.img6_2{
+    width: 100%;
+    height: 100%;
+}
+.container6{
+    /* margin-top: 20px; */
+    padding-top: 250px;
+    background: black;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+
+}
+.p6{
+    color: white;
+    
+}
+.h6-1{
+    color: white;
+}
+.imgss{
+    display: flex;
+    flex-direction: row;
+}
